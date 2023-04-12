@@ -1,6 +1,2 @@
 # gitPractice
-
-
- hello
- z
- www
+hi !
