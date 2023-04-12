@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world4!
+=======
+Hello world5!
+>>>>>>> new-branch
